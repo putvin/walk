@@ -19,3 +19,5 @@ Python code posted in this repository can be used to import, process, and classi
 After the IMU data is collected, it can be converted 
 to position data and visualized using xIMU
 https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU
+
+My dissertation with more information on this project is available at: http://www.lib.ncsu.edu/resolver/1840.20/34497
